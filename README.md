@@ -14,3 +14,6 @@ git clone (run the following commands from the root directory)
 npm install
 npm start
 use website http://localhost:3000/
+# Image
+![shop-shop (3)](https://user-images.githubusercontent.com/88795800/151724001-eefb986f-20eb-4fe1-bc3c-a0af52a90334.jpg)
+
